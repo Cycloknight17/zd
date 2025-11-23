@@ -1,10 +1,9 @@
-# ZeroDollarDev – H-1B Job Killer
+# ZeroDollarDev v2 — Lethal Swarm Edition
 
-Replaces junior/mid-level Indian H-1B coding jobs for $0.
+The original meme is dead. This version actually ends $60k–$150k offshore coding jobs.
 
-## One-Click Install & Run
+## One-command nuclear launch
 ```bash
-git clone https://github.com/Cycloknight17/zd.git
-cd zd
-pip install -r requirements.txt
-python swarm.py
+git clone https://github.com/YOUR-USERNAME/zd.git && cd zd
+pip install -r requirements.txt && playwright install-deps && playwright install
+python swarm_lethal.py
